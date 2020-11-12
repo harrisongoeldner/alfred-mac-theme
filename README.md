@@ -4,6 +4,8 @@ Use keyboard command or hotkey to change default mac theme
 Developed by Harrison Goeldner
 Version 1.2
 
+*Icon made by Freepik from www.flaticon.com*
+
 ## Compatibility
 
 Tested on MacOS Catilina (10.15.7)
