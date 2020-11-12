@@ -3,4 +3,7 @@ Use keyboard command or hotkey to change default mac theme
 
 Developed by Harrison Goeldner
 
-type theme in alfred to change theme of mac
+## Usage
+
+The workflow can be accessed 
+Type `theme` in alfred search to change theme of mac
