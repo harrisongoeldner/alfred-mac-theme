@@ -2,7 +2,7 @@
 Use keyboard command or hotkey to change default mac theme
 
 Developed by Harrison Goeldner
-Version 1.2
+Version 1.2.1
 
 *Icon made by Freepik from www.flaticon.com*
 
